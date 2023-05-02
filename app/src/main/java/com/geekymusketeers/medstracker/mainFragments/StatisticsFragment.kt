@@ -25,7 +25,7 @@ import java.util.Collections.min
 import kotlin.collections.ArrayList
 
 
-class StatisticsFragment : Fragment() {
+class uuStatisticsFragment : Fragment() {
 
     private var _binding: FragmentStatisticsBinding? = null
     private val binding get() = _binding!!
